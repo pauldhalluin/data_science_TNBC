@@ -1,0 +1,84 @@
+Pathway,Diff log
+Post NMDA receptor activation events,12.392308736514714
+Activation of NMDA receptors and postsynaptic events,11.183050615562385
+Signaling by Receptor Tyrosine Kinases,10.437009043660796
+Axon guidance,9.982602874469624
+Nervous system development,9.489123854934888
+Activation of AMPK downstream of NMDARs,8.743940086877792
+Neurotransmitter receptors and postsynaptic signal transmission,8.440771690893936
+Assembly and cell surface presentation of NMDA receptors,7.162787970234993
+Signal Transduction,6.695750383190539
+EPH-Ephrin signaling,6.350673648050892
+Transmission across Chemical Synapses,5.735927201961113
+VEGFA-VEGFR2 Pathway,5.332864764572101
+Activation of the AP-1 family of transcription factors,5.027535139737145
+Neuronal System,4.978711030337864
+Signaling by VEGF,4.834851493670591
+EPHA-mediated growth cone collapse,4.694547432550995
+Negative feedback regulation of MAPK pathway,4.541306175089719
+Signaling by Interleukins,4.531271144252397
+Developmental Biology,4.438492219940463
+Immune System,3.727266511337986
+Innate Immune System,3.6521340232532173
+Signaling downstream of RAS mutants,3.2778589904521116
+Signaling by moderate kinase activity BRAF mutants,3.2778589904521116
+Signaling by RAS mutants,3.2778589904521116
+Paradoxical activation of RAF signaling by kinase inactive BRAF,3.2778589904521116
+RHO GTPase Effectors,3.261133021785147
+Class A/1 (Rhodopsin-like receptors),2.9791559310244153
+Infectious disease,2.9385405586153084
+G alpha (i) signalling events,2.8742332432204867
+MAPK family signaling cascades,2.507803662279348
+Cytokine Signaling in Immune system,2.4990471816935846
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,2.4267075214657154
+Signaling by Retinoic Acid,2.393739388788479
+Nuclear Receptor transcription pathway,2.188991003506814
+FLT3 Signaling,1.5645546872503022
+EPHB-mediated forward signaling,1.55964885909007
+Signaling by SCF-KIT,1.5566709698094736
+Transcriptional Regulation by MECP2,1.4186527163093237
+MAPK1/MAPK3 signaling,1.3898392458858755
+Leishmania parasite growth and survival,1.2657509585748281
+Anti-inflammatory response favouring Leishmania parasite infection,1.2657509585748281
+Signaling by Nuclear Receptors,1.2383375106564296
+ADORA2B mediated anti-inflammatory cytokines production,1.0239091077285416
+Fc epsilon receptor (FCERI) signaling,1.0055260721468011
+Fcgamma receptor (FCGR) dependent phagocytosis,0.9089812366139189
+RAF/MAP kinase cascade,0.8308121704824449
+Disease,0.8269233472626683
+GPCR downstream signalling,0.7456766534596788
+Leishmania infection,0.6552350722422053
+Transcriptional regulation by RUNX2,0.4980475939471103
+G alpha (q) signalling events,0.4791999808148466
+Negative regulation of NMDA receptor-mediated neuronal transmission,0.3545323335333057
+GPCR ligand binding,0.3109441390317329
+Extra-nuclear estrogen signaling,0.16559565846368507
+Negative regulation of the PI3K/AKT network,0.16098934545308152
+RHO GTPases Activate NADPH Oxidases,0.16039644968763733
+Signaling by ERBB2,0.09898475676345253
+Signaling by GPCR,0.07800765389164432
+PIP3 activates AKT signaling,-0.16146325747347046
+Intracellular signaling by second messengers,-0.2719315729327416
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling,-0.48459130665338535
+PI3K/AKT Signaling in Cancer,-0.6936365424373143
+Diseases of signal transduction by growth factor receptors and second messengers,-0.9561503505556681
+MECP2 regulates neuronal receptors and channels,-1.0054634287921518
+Adrenaline signalling through Alpha-2 adrenergic receptor,-1.0781145880959864
+RUNX2 regulates osteoblast differentiation,-1.2008026693958405
+RUNX2 regulates bone development,-1.3040740615929098
+Platelet Aggregation (Plug Formation),-1.3718701483212454
+Histamine receptors,-1.4212253511565094
+Constitutive Signaling by Aberrant PI3K in Cancer,-1.5177285013988944
+Muscarinic acetylcholine receptors,-1.7657210406015817
+Dopamine receptors,-1.7657210406015817
+Synaptic adhesion-like molecules,-2.000019576010879
+G alpha (z) signalling events,-2.0033072653363497
+Unblocking of NMDA receptors, glutamate binding and activation,-2.007409552654594
+Regulation of KIT signaling,-2.0667883702875987
+Hemostasis,-2.3440362062516558
+Long-term potentiation,-2.352330464775338
+VEGFR2 mediated cell proliferation,-2.390275616018831
+Adrenoceptors,-3.1577917267978393
+Serotonin receptors,-4.216981527801812
+Platelet activation, signaling and aggregation,-5.773140719428838
+Amine ligand-binding receptors,-10.57239559313814

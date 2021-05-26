@@ -1,0 +1,103 @@
+Pathway,-log(p)
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,11.353382900276108
+Transport of connexons to the plasma membrane,10.948628251420988
+L1CAM interactions,10.410857427692969
+Post-chaperonin tubulin folding pathway,10.227465626450398
+Recycling pathway of L1,9.789468840077726
+Formation of tubulin folding intermediates by CCT/TriC,9.31196637723439
+RHO GTPases activate IQGAPs,9.18303778113522
+Sealing of the nuclear envelope (NE) by ESCRT-III,7.874406926255742
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,7.671281188602165
+HSP90 chaperone cycle for steroid hormone receptors (SHR),7.34026385539785
+Signaling by NTRKs,6.982337721530747
+Aggrephagy,6.968684050642151
+Signalling to ERKs,6.810848734930005
+Gap junction assembly,6.767736553256518
+EPH-ephrin mediated repulsion of cells,6.271682815557848
+Prefoldin mediated transfer of substrate  to CCT/TriC,6.14612348074901
+Carboxyterminal post-translational modifications of tubulin,6.009856137450706
+The role of GTSE1 in G2/M progression after G2 checkpoint,5.962915451591484
+Selective autophagy,5.873618724197928
+Toll-like Receptor Cascades,5.602256229552177
+MAPK targets/ Nuclear events mediated by MAP kinases,5.592991056744613
+Toll Like Receptor TLR6:TLR2 Cascade,5.573751027461464
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,5.573751027461464
+Toll Like Receptor 2 (TLR2) Cascade,5.346589742041973
+Toll Like Receptor TLR1:TLR2 Cascade,5.346589742041973
+Gap junction trafficking,5.239798726663775
+RSK activation,5.157776792205825
+Gap junction trafficking and regulation,5.123362376101399
+Signaling by NTRK1 (TRKA),5.0885510944813515
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,5.0539844508939895
+Toll Like Receptor 7/8 (TLR7/8) Cascade,4.97862029726269
+MyD88 dependent cascade initiated on endosome,4.97862029726269
+Organelle biogenesis and maintenance,4.97844765512255
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,4.812555306151642
+COPI-independent Golgi-to-ER retrograde traffic,4.791406957843194
+Recruitment of NuMA to mitotic centrosomes,4.758919576907894
+MAP kinase activation,4.729662368505177
+Toll Like Receptor 9 (TLR9) Cascade,4.687733248096749
+TRIF(TICAM1)-mediated TLR4 signaling ,4.617531049155848
+MyD88-independent TLR4 cascade ,4.617531049155848
+Cell Cycle, Mitotic,4.452702895289604
+MHC class II antigen presentation,4.408299131388271
+Toll Like Receptor 4 (TLR4) Cascade,4.23688094812288
+Nuclear Envelope (NE) Reassembly,4.11677707839618
+Interleukin-17 signaling,4.035747613333323
+Kinesins,4.013643214742157
+Signal transduction by L1,3.951276803388966
+Chaperonin-mediated protein folding,3.9093959792333264
+Toll Like Receptor 10 (TLR10) Cascade,3.877420755123708
+Toll Like Receptor 5 (TLR5) Cascade,3.877420755123708
+MyD88 cascade initiated on plasma membrane,3.877420755123708
+Signaling by high-kinase activity BRAF mutants,3.8742422627644544
+Apoptosis,3.840071202835971
+Mitotic G1 phase and G1/S transition,3.7693035923379967
+Intraflagellar transport,3.7535710156698787
+Programmed Cell Death,3.709561184307627
+RAF activation,3.61410513453548
+Hedgehog 'off' state,3.55549085371895
+Protein folding,3.5337837383081263
+G2/M Transition,3.522489636916761
+Gastrin-CREB signalling pathway via PKC and MAPK,3.501565426633349
+Mitotic G2-G2/M phases,3.443933413970098
+p38MAPK events,3.3921788777733237
+DSCAM interactions,3.3921788777733237
+MAP2K and MAPK activation,3.3912203044826743
+Toll Like Receptor 3 (TLR3) Cascade,3.346676525731358
+CD28 co-stimulation,3.3382725325491736
+Signalling to RAS,3.284817622228402
+Ephrin signaling,3.284817622228402
+HCMV Early Events,3.1038496923101895
+Adenosine P1 receptors,3.098633614086555
+Signaling by BRAF and RAF fusions,2.9148832701424765
+Factors involved in megakaryocyte development and platelet production,2.8681392136317037
+Cell Cycle,2.847268104651986
+DNA replication initiation,2.834705288212912
+COPI-mediated anterograde transport,2.7640844247767484
+Prolonged ERK activation events,2.6196399732654037
+Metabolism of nucleotides,2.5614464828354495
+Macroautophagy,2.509722688167846
+Autophagy,2.476513934298997
+Signaling by Hedgehog,2.476513934298997
+Oncogenic MAPK signaling,2.35861150201434
+Cilium Assembly,2.231951723534984
+COPI-dependent Golgi-to-ER retrograde traffic,2.1875322632096283
+G1/S Transition,2.028095844436002
+Frs2-mediated activation,1.9576008730091778
+CD28 dependent Vav1 pathway,1.9576008730091778
+HCMV Infection,1.8900002743528894
+Mitotic Prometaphase,1.7801354645421594
+Resolution of Sister Chromatid Cohesion,1.7620492788641875
+Signaling by Rho GTPases,1.7190030039231978
+Interleukin-4 and Interleukin-13 signaling,1.7116386897120461
+Nef and signal transduction,1.5924958959350368
+CD209 (DC-SIGN) signaling,1.5893349172010665
+Netrin-1 signaling,1.5813780424023736
+FCGR3A-mediated phagocytosis,1.5804989862976069
+Leishmania phagocytosis,1.5804989862976069
+Parasite infection,1.5804989862976069
+Negative regulation of MAPK pathway,1.52542551847003
+EML4 and NUDC in mitotic spindle formation,1.49577189376204
+ERK/MAPK targets,1.331676748832849
+RAF-independent MAPK1/3 activation,1.331676748832849
